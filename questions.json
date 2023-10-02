@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Vill du kunna klappa och gossa med ditt djur?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [3,2,1,0],
+    "noscore": [0,1,2,3]
+  },
+  {
+    "question": "Vill du kunna ta med dig ditt djur överallt?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [0,1,2,3],
+    "noscore": [2,3,1,0]
+  },
+  {
+    "question": "Är du känslig för päls?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [1,0,2,3],
+    "noscore": [2,3,1,0]
+  },
+  {
+    "question": "Vill du ha ett djur som du kan ha ute på vintertid i en bur?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,3,1,0],
+    "noscore": [1,0,2,3]
+  },
+  {
+    "question": "Kan du tänka dig att ha ett djur som du måste rasta flera gånger om dagen?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,3,1,0],
+    "noscore": [1,0,2,3]
+  },
+  {
+    "question": "Kan du tänka dig att ta hand om djuret mer än 10 år?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,3,1,0],
+    "noscore": [1,0,2,3]
+  },
+  {
+    "question": "Gillar du djur som kan låta högt?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,3,1,0],
+    "noscore": [1,0,2,3]
+  },
+  {
+    "question": "Kan du tänka dig att lägga 1000-1500 kr på djurfoder varje månad?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,3,1,0],
+    "noscore": [1,0,2,3]
+  },
+  {
+    "question": "Vill du ha ett djur som är lojal och alltid finns vid sin sida?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,3,1,0],
+    "noscore": [1,0,2,3]
+  },
+  {
+    "question": "Vill du att kunna ta sovmorgon när du är ledig?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [1,0,2,3],
+    "noscore": [2,3,1,0]
+  },
+  {
+    "question": "Vill du att ditt djur ska kunna vakta dig?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,3,1,0],
+    "noscore": [1,0,2,3]
+  },
+  {
+    "question": "Vill du kunna släppa ut ditt djur utan koppel?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,1,0,3],
+    "noscore": [1,3,2,0]
+  },
+  {
+    "question": "Vill du ha djur som inte fäller päls?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [1,0,2,3],
+    "noscore": [2,3,1,0]
+  },
+  {
+    "question": "Vill du ha djur som väger mer än 10 kg",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [2,3,1,0],
+    "noscore": [1,0,2,3]
+  },
+  {
+    "question": "Vill du ha ett djur som kan sova bredvid dig på nätterna i sängen?",
+    "Comment score": "cat, dog, rabbit, fish",
+    "yesscore": [3,2,1,0],
+    "noscore": [1,0,2,3]
+  }
+]
