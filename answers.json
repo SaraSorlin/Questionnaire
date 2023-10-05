@@ -1,0 +1,119 @@
+[
+  {
+    "Name": "Sara",
+    "Date": "2023-10-05 08:17:20",
+    "Answers": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "Score": [
+      24,
+      21,
+      21,
+      24
+    ],
+    "Percent": [
+      27,
+      27,
+      23,
+      23
+    ],
+    "Bestmatch": [
+      "cat",
+      "fish",
+      "dog",
+      "rabbit"
+    ]
+  },
+  {
+    "Name": "Milton",
+    "Date": "2023-10-05 08:18:53",
+    "Answers": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "Score": [
+      13,
+      5,
+      30,
+      42
+    ],
+    "Percent": [
+      47,
+      33,
+      14,
+      6
+    ],
+    "Bestmatch": [
+      "fish",
+      "rabbit",
+      "cat",
+      "dog"
+    ]
+  },
+  {
+    "Name": "Maria",
+    "Date": "2023-10-05 08:22:06",
+    "Answers": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "Score": [
+      20,
+      22,
+      24,
+      24
+    ],
+    "Percent": [
+      27,
+      27,
+      24,
+      22
+    ],
+    "Bestmatch": [
+      "rabbit",
+      "fish",
+      "dog",
+      "cat"
+    ]
+  }
+]
